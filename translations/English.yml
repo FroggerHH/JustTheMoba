@@ -1,2 +1,4 @@
 JustTheMoba_none: "none"
-showChunkArea: "Show scope"
+JustTheMoba_select_team: "Select your team. Available teams: 'team_1', 'team_2'. Use 'reset' to exit team and become normal player"
+JustTheMoba_err_no_team: "Target team must be specified. Use 'team_1' or 'team_2' or 'reset'"
+JustTheMoba_err_invalid_team: "There is no such team '{0}' for joining"

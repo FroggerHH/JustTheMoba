@@ -1,2 +1,4 @@
 JustTheMoba_none: "none"
-showChunkArea: "Показать область действия"
+JustTheMoba_select_team: "Выберите команду. Доступные команды: 'team_1', 'team_2'. Используйте 'reset', чтобы выйти из команды и стать обычным игроком"
+JustTheMoba_err_no_team: "Необходимо указать команду для вступления. Доступны 'team_1' или 'team_2' или 'reset'"
+JustTheMoba_err_invalid_team: "Команды '{0}' не существует"

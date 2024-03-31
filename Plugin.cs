@@ -16,7 +16,6 @@ internal class Plugin : BaseUnityPlugin
     
     public static Character.Faction team_1 = (Character.Faction)71;
     public static Character.Faction team_2 = (Character.Faction)72;
-    
 
     internal static ConfigEntry<int> maxFuelConfig;
 
